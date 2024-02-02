@@ -1,0 +1,23 @@
+[
+	
+	{
+		"name": "ResponsiveCE",
+		"thumb": "1.0.1",
+		"update": "2022.12.23",
+		"info": "Accesibilty options for your website",
+		"author": "Multicolor",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
+	},
+
+	{
+		"name": "Auto-open Page Options",
+		"thumb": "2.0",
+		"update": "2023.01.17",
+		"info": "Automatically opens the page options when editing pages",
+		"author": "Martin Vlcek",
+		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/",
+		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Auto-open_Page_Options/archive/refs/heads/main.zip"
+	},
+	
+]
