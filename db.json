@@ -2,12 +2,12 @@
 	
 	{
 		"name": "ResponsiveCE",
-		"thumb": "1.0.1",
+		"thumb": "https://github.com/GetSimpleCMS-CE-themes/ResponsiveCE/blob/main/images/screenshot.png",
 		"update": "2022.12.23",
-		"info": "Accesibilty options for your website",
+		"info": "Default CE theme.",
 		"author": "Multicolor",
-		"repo": "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/",
-		"url":  "https://github.com/GetSimpleCMS-CE-plugins/plugin-Accessibility-Sidebar/archive/main.zip"
+		"repo": "https://github.com/GetSimpleCMS-CE-themes/ResponsiveCE",
+		"url":  "https://github.com/GetSimpleCMS-CE-themes/ResponsiveCE/archive/main.zip"
 	},
 
 	{
