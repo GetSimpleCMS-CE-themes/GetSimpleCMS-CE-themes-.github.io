@@ -7,12 +7,16 @@ fetch('https://GetSimpleCMS-CE-themes.github.io/db.json')
             document.querySelector('.db').insertAdjacentHTML('beforeend', `
 
 <div class="db-item" id="${el['name'].replace(/ /g, '-').replace(/[^\w\s]|_/g, '').toLowerCase()}">
-	<h3>${el['name']}</h3>
-	<img src="${el['thumb']}">
-	<p class="db-item-info">${el['info']}</p>
+	<center>
+		<h3>${el['name']}</h3>
+		<img src="${el['thumb']}">
+		<p class="db-item-info center">${el['info']}</p>
+	</center>
 	<hr>
 	<p class="db-item-author"> ${el['author']} <span class="db-item-update">${el['update']}</span> <a href="${el['repo']}" target="_blank" class="db-item-repo">Repo</a></p>
-	<a class="db-item-btn" href="${el['url']}">Download</a>
+	<center>
+		<a class="db-item-btn" href="${el['url']}">Download</a>
+	</center>
 </div>
 
 `)
