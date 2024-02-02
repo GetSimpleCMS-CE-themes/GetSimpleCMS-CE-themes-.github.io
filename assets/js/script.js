@@ -29,7 +29,7 @@ document.querySelector('.title-search').addEventListener('keyup', (e) => {
 
     document.querySelectorAll('.db-item').forEach(c=>{
 
-        if(c.querySelector('h4').innerHTML.toLowerCase().indexOf(document.querySelector('.title-search').value.toLowerCase()) > -1){
+        if(c.querySelector('h3,p').innerHTML.toLowerCase().indexOf(document.querySelector('.title-search').value.toLowerCase()) > -1){
             c.style.display="block";
         }
 
