@@ -3,9 +3,9 @@
 	{
 		"name": "ResponsiveCE",
 		"thumb": "https://github.com/GetSimpleCMS-CE-themes/ResponsiveCE/blob/main/images/screenshot.png?raw=true",
-		"update": "2022.12.23",
-		"info": "Default CE theme.",
+		"info": "Default theme bundled with GS-CE.",
 		"author": "Multicolor",
+		"update": "2023.12.03",
 		"repo": "https://github.com/GetSimpleCMS-CE-themes/ResponsiveCE",
 		"url":  "https://github.com/GetSimpleCMS-CE-themes/ResponsiveCE/archive/main.zip"
 	}
