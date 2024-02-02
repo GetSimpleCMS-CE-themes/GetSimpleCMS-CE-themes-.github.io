@@ -1,4 +1,4 @@
-fetch('https://GetSimpleCMS-CE-themes.github.io/db.json/db.json')
+fetch('https://GetSimpleCMS-CE-themes.github.io/db.json')
     .then((response) => response.json())
     .then((data) => {
 
