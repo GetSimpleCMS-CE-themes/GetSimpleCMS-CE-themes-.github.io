@@ -17,7 +17,15 @@
 		"update": "2024.02.04",
 		"repo": "https://github.com/GetSimpleCMS-CE-themes/PhotoTheme",
 		"url":  "https://github.com/GetSimpleCMS-CE-themes/PhotoTheme/archive/main.zip"
+	},
+	{
+		"name": "W3 Startup",
+		"thumb": "https://github.com/GetSimpleCMS-CE-themes/W3-Startup/blob/main/images/screenshot.png?raw=true",
+		"info": "W3 bassed demo theme for GS CE",
+		"author": "risingisland",
+		"update": "2024.05.25",
+		"repo": "https://github.com/GetSimpleCMS-CE-themes/W3-Startup/",
+		"url":  "https://github.com/GetSimpleCMS-CE-themes/W3-Startup/archive/refs/heads/main.zip"
 	}
-	
 	
 ]
